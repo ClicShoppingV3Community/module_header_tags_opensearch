@@ -1,0 +1,4 @@
+
+ module_header_tags_opensearch_title = Do  you want use OpenSearch ?
+ module_header_tags_opensearch_description = Your browser can search in your website via OpenSearch search engine
+

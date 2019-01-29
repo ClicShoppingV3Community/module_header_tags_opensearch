@@ -1,0 +1,29 @@
+{
+  "title":			"module_header_tags_opensearch",
+  "type":       "meta tag",
+  "vendor":			"header_tags",
+  "is_free":   "Yes",
+  "website_link_to_sell" : "",
+  "version":			1.0,
+  "req_core_version":	3.0,
+  "license":			"GPL 2 - MIT",
+  "tag":			    "header tag, script, meta tag, frontoffice, openearch",
+  "install":            "includes/modules/",
+  "module_directory":   "header_tags",
+  "apps_name":          "",
+  "type_module":        "fixe",
+  "dependance":         "",
+
+  "description":        "They have been a field of marketing research known as search engine optimization (Search Engine Optimization, SEO) name, in which we explore different methods to provide the website a user a better rank in search engines",
+  "image":              "",
+
+  "authors": [
+    {
+      "name":		    "ClicShopping Team",
+      "company":	    "Innov-concept",
+      "email":	        "",
+      "website":	    "http://www.clicshopping.org",
+      "Community":	  "http://www.clicshopping.org"
+    }
+  ]
+}
